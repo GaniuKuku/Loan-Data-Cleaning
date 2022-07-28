@@ -1,2 +1,2 @@
-# Data-Cleaning
-Cleaning and Preprocessing of data
+# Loan Data Cleaning
+Cleaning and Preprocessing of bank loan data
